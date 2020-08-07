@@ -1,0 +1,66 @@
+<!-- Created with Fritzing (http://www.fritzing.org/) --><svg xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.2" x="0in" y="0in" width="25.4mm" height="10.16mm" viewBox="0 0 25.4 10.16" id="svg0" sodipodi:docname="AMS1117_5V_regulator_module.svg" inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata id="metadata0">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs0">
+    <linearGradient id="Schematic_pin" osb:paint="solid" gradientTransform="matrix(0,0,0,0,52.651326,19.706649)">
+      <stop style="stop-color:#555555;stop-opacity:1;" offset="0" id="stop1056"/>
+    </linearGradient>
+    <linearGradient id="Breadboard_font_color" osb:paint="solid" gradientTransform="translate(-13.728802,-7.7368969)">
+      <stop style="stop-color:#e6e6e6;stop-opacity:1;" offset="0" id="stop882"/>
+    </linearGradient>
+    <linearGradient id="board_green" osb:paint="solid" gradientTransform="matrix(0.29934191,0,0,0.38833538,47.731132,15.946772)">
+      <stop style="stop-color:#30ac5f;stop-opacity:1;" offset="0" id="stop975"/>
+    </linearGradient>
+    <linearGradient id="board_red" osb:paint="solid" gradientTransform="matrix(0,0,0,0,44.487142,20.109385)">
+      <stop style="stop-color:#e91b1b;stop-opacity:1;" offset="0" id="stop922"/>
+    </linearGradient>
+    <linearGradient id="board_blue" osb:paint="solid" gradientTransform="matrix(0,0,0,0,0,10.617214)">
+      <stop style="stop-color:#15478b;stop-opacity:1;" offset="0" id="stop878"/>
+    </linearGradient>
+    <linearGradient id="Breadboard_copper" osb:paint="solid" gradientTransform="matrix(0,0,0,0,63.921381,22.346634)">
+      <stop style="stop-color:#9a916c;stop-opacity:1;" offset="0" id="stop853"/>
+    </linearGradient>
+    <linearGradient id="PCB_copper" osb:paint="solid" gradientTransform="translate(0,0)">
+      <stop style="stop-color:#f7bd13;stop-opacity:1;" offset="0" id="stop847"/>
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1920" inkscape:window-height="1053" id="namedview0" showgrid="false" inkscape:zoom="8.0000005" inkscape:cx="27.585473" inkscape:cy="19.456999" inkscape:window-x="-9" inkscape:window-y="-9" inkscape:window-maximized="1" inkscape:current-layer="svg0" inkscape:pagecheckerboard="true" units="mm" inkscape:document-units="mm" inkscape:showpageshadow="true" inkscape:snap-center="true" inkscape:lockguides="true" showguides="false">
+    <sodipodi:guide position="0,0" orientation="0,95.999999" id="guide0" inkscape:locked="true"/>
+    <sodipodi:guide position="25.4,0" orientation="-38.399999,0" id="guide1" inkscape:locked="true"/>
+    <sodipodi:guide position="25.4,10.16" orientation="0,-95.999999" id="guide2" inkscape:locked="true"/>
+    <sodipodi:guide position="0,10.16" orientation="38.399999,0" id="guide3" inkscape:locked="true"/>
+    <sodipodi:guide position="1.2699998,1.2700076" orientation="1,0" id="guide4" inkscape:locked="true"/>
+    <sodipodi:guide position="24.13,1.2699999" orientation="1,0" id="guide5" inkscape:locked="true"/>
+    <sodipodi:guide position="2.540004,7.6199988" orientation="0,1" id="guide6" inkscape:locked="true"/>
+    <sodipodi:guide position="2.540004,2.5400043" orientation="0,1" id="guide7" inkscape:locked="true"/>
+    <sodipodi:guide position="9.4500361,6.99523" orientation="1,0" id="guide8" inkscape:locked="true"/>
+    <sodipodi:guide position="3.8100002,3.0918224" orientation="1,0" id="guide9" inkscape:locked="true"/>
+  </sodipodi:namedview>
+  <svg:g inkscape:groupmode="layer" id="g-layer-part-P" inkscape:label="part : PCB" partID="" style="display:inline" transform="translate(0,-10.617201)" sodipodi:insensitive="true">
+    <svg:g inkscape:groupmode="layer" id="silkscreen" inkscape:label="[silkscreen]" sodipodi:insensitive="true">
+      <svg:path style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.08653747;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" d="m 0,10.617201 v 0.197921 2.341976 H 0.1984375 V 10.815122 H 2.5404132 V 10.617201 H 0.1984375 Z" id="rect4767" inkscape:connector-curvature="0"/>
+      <svg:path style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.08653747;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" d="m 25.4,10.617201 h -0.197921 -2.341976 v 0.198438 h 2.341976 v 2.341975 H 25.4 v -2.341975 z" id="rect4767-8" inkscape:connector-curvature="0"/>
+      <svg:path style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.08653747;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" d="M 25.4,20.777201 V 20.57928 18.237304 h -0.198438 v 2.341976 h -2.341976 v 0.197921 h 2.341976 z" id="rect4767-7" inkscape:connector-curvature="0"/>
+      <svg:path style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.08653747;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" d="M 0,20.777201 H 0.19792096 2.539897 V 20.578764 H 0.19792096 V 18.236788 H 0 v 2.341976 z" id="rect4767-9" inkscape:connector-curvature="0"/>
+      <svg:rect style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.16441593;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" id="rect4812" width="0.198" height="1.7960513" x="8.4055204" y="6.6094694" transform="rotate(45)"/>
+    </svg:g>
+    <svg:g id="copper0" inkscape:label="[copper0]" inkscape:groupmode="layer" sodipodi:insensitive="true">
+      <svg:g inkscape:groupmode="layer" id="copper1" inkscape:label="[copper1]" style="display:inline" sodipodi:insensitive="true">
+        <svg:circle style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:0;fill-rule:evenodd;stroke:url(#PCB_copper);stroke-width:0.50800002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;enable-background:new" id="path_pcb_pin_3" cx="22.860001" cy="14.427701" r="0.73650014" inkscape:label="path_pcb_pin_3" sodipodi:insensitive="true"/>
+        <svg:circle style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:0;fill-rule:evenodd;stroke:url(#PCB_copper);stroke-width:0.50800002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;enable-background:new" id="path_pcb_pin_4" cx="22.860001" cy="16.967197" r="0.73650014" inkscape:label="path_pcb_pin_4" sodipodi:insensitive="true"/>
+        <svg:circle inkscape:label="path_pcb_pin_1" r="0.73650008" cy="14.427202" cx="2.54" id="path_pcb_pin_1" style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:0;fill-rule:evenodd;stroke:url(#PCB_copper);stroke-width:0.50800002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;enable-background:new" sodipodi:insensitive="true"/>
+        <svg:circle inkscape:label="path_pcb_pin_2" r="0.73650014" cy="16.967197" cx="2.5400002" id="path_pcb_pin_2" style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:0;fill-rule:evenodd;stroke:url(#PCB_copper);stroke-width:0.50800002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;enable-background:new" sodipodi:insensitive="true"/>
+      </svg:g>
+    </svg:g>
+    <svg:g inkscape:groupmode="layer" id="keepout" inkscape:label="[keepout]" style="display:inline" sodipodi:insensitive="true"/>
+    <svg:g inkscape:label="[soldermask]" id="soldermask" inkscape:groupmode="layer" sodipodi:insensitive="true"/>
+    <svg:g inkscape:groupmode="layer" id="outline" inkscape:label="[outline]" sodipodi:insensitive="true"/>
+  </svg:g>
+</svg>

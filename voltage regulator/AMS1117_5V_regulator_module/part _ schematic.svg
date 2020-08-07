@@ -1,0 +1,81 @@
+<!-- Created with Fritzing (http://www.fritzing.org/) --><svg xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.2" x="0in" y="0in" width="25.4mm" height="10.16mm" viewBox="0 0 25.4 10.16" id="svg0" sodipodi:docname="AMS1117_5V_regulator_module.svg" inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata id="metadata0">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs0">
+    <linearGradient id="Schematic_pin" osb:paint="solid" gradientTransform="matrix(0,0,0,0,52.651326,19.706649)">
+      <stop style="stop-color:#555555;stop-opacity:1;" offset="0" id="stop1056"/>
+    </linearGradient>
+    <linearGradient id="Breadboard_font_color" osb:paint="solid" gradientTransform="translate(-13.728802,-7.7368969)">
+      <stop style="stop-color:#e6e6e6;stop-opacity:1;" offset="0" id="stop882"/>
+    </linearGradient>
+    <linearGradient id="board_green" osb:paint="solid" gradientTransform="matrix(0.29934191,0,0,0.38833538,47.731132,15.946772)">
+      <stop style="stop-color:#30ac5f;stop-opacity:1;" offset="0" id="stop975"/>
+    </linearGradient>
+    <linearGradient id="board_red" osb:paint="solid" gradientTransform="matrix(0,0,0,0,44.487142,20.109385)">
+      <stop style="stop-color:#e91b1b;stop-opacity:1;" offset="0" id="stop922"/>
+    </linearGradient>
+    <linearGradient id="board_blue" osb:paint="solid" gradientTransform="matrix(0,0,0,0,0,10.617214)">
+      <stop style="stop-color:#15478b;stop-opacity:1;" offset="0" id="stop878"/>
+    </linearGradient>
+    <linearGradient id="Breadboard_copper" osb:paint="solid" gradientTransform="matrix(0,0,0,0,63.921381,22.346634)">
+      <stop style="stop-color:#9a916c;stop-opacity:1;" offset="0" id="stop853"/>
+    </linearGradient>
+    <linearGradient id="PCB_copper" osb:paint="solid" gradientTransform="translate(0,0)">
+      <stop style="stop-color:#f7bd13;stop-opacity:1;" offset="0" id="stop847"/>
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1920" inkscape:window-height="1053" id="namedview0" showgrid="false" inkscape:zoom="8.0000005" inkscape:cx="27.585473" inkscape:cy="19.456999" inkscape:window-x="-9" inkscape:window-y="-9" inkscape:window-maximized="1" inkscape:current-layer="svg0" inkscape:pagecheckerboard="true" units="mm" inkscape:document-units="mm" inkscape:showpageshadow="true" inkscape:snap-center="true" inkscape:lockguides="true" showguides="false">
+    <sodipodi:guide position="0,0" orientation="0,95.999999" id="guide0" inkscape:locked="true"/>
+    <sodipodi:guide position="25.4,0" orientation="-38.399999,0" id="guide1" inkscape:locked="true"/>
+    <sodipodi:guide position="25.4,10.16" orientation="0,-95.999999" id="guide2" inkscape:locked="true"/>
+    <sodipodi:guide position="0,10.16" orientation="38.399999,0" id="guide3" inkscape:locked="true"/>
+    <sodipodi:guide position="1.2699998,1.2700076" orientation="1,0" id="guide4" inkscape:locked="true"/>
+    <sodipodi:guide position="24.13,1.2699999" orientation="1,0" id="guide5" inkscape:locked="true"/>
+    <sodipodi:guide position="2.540004,7.6199988" orientation="0,1" id="guide6" inkscape:locked="true"/>
+    <sodipodi:guide position="2.540004,2.5400043" orientation="0,1" id="guide7" inkscape:locked="true"/>
+    <sodipodi:guide position="9.4500361,6.99523" orientation="1,0" id="guide8" inkscape:locked="true"/>
+    <sodipodi:guide position="3.8100002,3.0918224" orientation="1,0" id="guide9" inkscape:locked="true"/>
+  </sodipodi:namedview>
+  <svg:g inkscape:groupmode="layer" id="g-layer-part-S" inkscape:label="part : schematic" partID="" style="display:inline" transform="translate(0,-10.617201)" sodipodi:insensitive="true">
+    <svg:g inkscape:groupmode="layer" id="schematic" inkscape:label="[schematic]" sodipodi:insensitive="true">
+      <svg:g inkscape:groupmode="layer" id="part_symbol" inkscape:label="[part_symbol]" style="display:inline" sodipodi:insensitive="true">
+        <svg:rect style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.23800001;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" id="rect839" width="20.315008" height="5.0750089" x="2.5424957" y="13.159697" sodipodi:insensitive="true"/>
+      </svg:g>
+      <svg:g inkscape:groupmode="layer" id="pins" inkscape:label="[pins]" style="display:inline">
+        <svg:rect style="opacity:1;vector-effect:none;fill:url(#Schematic_pin);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.1350174;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" id="rect_sch_pin_1" width="2.54" height="0.24600001" x="0.020107418" y="14.306697" inkscape:label="rect_sch_pin_1"/>
+        <svg:rect style="display:inline;opacity:1;vector-effect:none;fill:url(#Schematic_pin);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.1350174;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" id="rect_sch_pin_2" width="2.5400002" height="0.24600001" x="0.029537" y="16.846697" inkscape:label="rect_sch_pin_2"/>
+        <svg:rect style="display:inline;opacity:1;vector-effect:none;fill:url(#Schematic_pin);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.1350174;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" id="rect_sch_pin_3" width="2.5400004" height="0.24600001" x="22.857504" y="14.306697" inkscape:label="rect_sch_pin_3"/>
+        <svg:rect style="display:inline;opacity:1;vector-effect:none;fill:url(#Schematic_pin);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.1350174;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" id="rect_sch_pin_4" width="2.5400004" height="0.24600001" x="22.857504" y="16.846697" inkscape:label="rect_sch_pin_4"/>
+      </svg:g>
+      <svg:g inkscape:label="[pin_numbers]" id="pin_numbers" inkscape:groupmode="layer" sodipodi:insensitive="true" style="display:inline">
+        <svg:text xml:space="preserve" style="font-size:1.23472309px;font-family:DroidSans;fill:#555555" x="1.0986891" y="13.9062" id="text_sch_pin_number_1" inkscape:label="text_sch_pin_number_1" sodipodi:insensitive="true">1</svg:text>
+        <svg:text xml:space="preserve" style="font-size:1.23472309px;font-family:DroidSans;fill:#555555" x="1.0618253" y="16.446201" id="text_sch_pin_number_2" inkscape:label="text_sch_pin_number_2" sodipodi:insensitive="true">2</svg:text>
+        <svg:text xml:space="preserve" style="font-size:1.23472309px;font-family:DroidSans;fill:#555555" x="23.893238" y="13.897588" id="text_sch_pin_number_3" inkscape:label="text_sch_pin_number_3" sodipodi:insensitive="true">3</svg:text>
+        <svg:text xml:space="preserve" style="font-size:1.23472309px;font-family:DroidSans;fill:#555555" x="23.8885" y="16.446201" id="text_sch_pin_number_4" inkscape:label="text_sch_pin_number_4" sodipodi:insensitive="true">4</svg:text>
+      </svg:g>
+      <svg:g inkscape:groupmode="layer" id="pin_labels" inkscape:label="[pin_labels]" sodipodi:insensitive="true" style="display:inline">
+        <svg:text xml:space="preserve" style="font-size:1.23472309px;font-family:DroidSans;fill:#555555" x="3.4230001" y="14.870411" id="text_sch_pin_label_1" inkscape:label="text_sch_pin_label_1">VIN+</svg:text>
+        <svg:text xml:space="preserve" style="font-size:1.23472309px;font-family:DroidSans;fill:#555555" x="3.3476384" y="17.410713" id="text_sch_pin_label_2" inkscape:label="text_sch_pin_label_2">GND-</svg:text>
+        <svg:text xml:space="preserve" style="font-size:1.23472309px;font-family:DroidSans;fill:#555555" x="18.259001" y="14.871316" id="text_sch_pin_label_3" inkscape:label="text_sch_pin_label_3">VOUT+</svg:text>
+        <svg:text xml:space="preserve" style="font-size:1.23472309px;font-family:DroidSans;fill:#555555" x="19.033638" y="17.410713" id="text_sch_pin_label_4" inkscape:label="text_sch_pin_label_4">GND-</svg:text>
+      </svg:g>
+      <svg:g inkscape:groupmode="layer" id="g-layer-text-part-name" inkscape:label="part name" sodipodi:insensitive="true" style="display:inline">
+        <svg:text xml:space="preserve" style="font-size:1.49930561px;font-family:DroidSans;fill:#000000" x="9.5864515" y="15.126559" id="text_sch_part_name_0" sodipodi:insensitive="true">AMS1117</svg:text>
+        <svg:text id="text_sch_part_name_1" y="16.994017" x="8.5231009" style="font-size:1.49930561px;font-family:DroidSans;fill:#000000" xml:space="preserve" sodipodi:insensitive="true">5V regulator</svg:text>
+      </svg:g>
+    </svg:g>
+    <svg:g inkscape:groupmode="layer" id="help" inkscape:label="[help]" sodipodi:insensitive="true">
+      <svg:rect style="display:inline;opacity:1;vector-effect:none;fill:url(#Schematic_pin);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.04201848;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" id="rect_sch_help_pin_1" width="0.24600001" height="0.24600001" x="0.020107418" y="14.306697" inkscape:label="rect_sch_help_pin_1" sodipodi:insensitive="true"/>
+      <svg:rect style="display:inline;opacity:1;vector-effect:none;fill:url(#Schematic_pin);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.04201848;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" id="rect_sch_help_pin_2" width="0.24600001" height="0.24600001" x="0.029537" y="16.846697" inkscape:label="rect_sch_help_pin_2" sodipodi:insensitive="true"/>
+      <svg:rect style="display:inline;opacity:1;vector-effect:none;fill:url(#Schematic_pin);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.04201848;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" id="rect_sch_help_pin_3" width="0.24600001" height="0.24600001" x="25.151505" y="14.306697" inkscape:label="rect_sch_help_pin_3" sodipodi:insensitive="true"/>
+      <svg:rect style="display:inline;opacity:1;vector-effect:none;fill:url(#Schematic_pin);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.04201848;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" id="rect_sch_help_pin_4" width="0.24600001" height="0.24600001" x="25.151505" y="16.846697" inkscape:label="rect_sch_help_pin_4" sodipodi:insensitive="true"/>
+    </svg:g>
+  </svg:g>
+  </svg>
